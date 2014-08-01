@@ -1,0 +1,22 @@
+{
+  "name": "simpleMessaging",
+  "version": "0.0.0",
+  "description": "A very simple messaging js",
+  "main": "src/simpleMessaging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilkabra/simple-messaging"
+  },
+  "author": "sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilkabra/simple-messaging/issues"
+  },
+  "homepage": "https://github.com/sahilkabra/simple-messaging",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
