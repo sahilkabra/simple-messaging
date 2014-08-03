@@ -1,4 +1,4 @@
-//simpleMessaging.js
+//messenger.js
 
 /*
  * This module will create a global messaging bus for the app.

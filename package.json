@@ -1,8 +1,8 @@
 {
-  "name": "simpleMessaging",
+  "name": "messenger",
   "version": "0.0.0",
   "description": "A very simple messaging js",
-  "main": "src/simpleMessaging.js",
+  "main": "src/messenger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/sahilkabra/simple-messaging",
   "devDependencies": {
     "jasmine-node": "^1.14.5"
-  }
+  },
+  "dependencies": {}
 }
