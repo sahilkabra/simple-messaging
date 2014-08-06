@@ -4,7 +4,7 @@
   "description": "A very simple messaging js",
   "main": "src/messenger.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha --reporter dot test/"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/sahilkabra/simple-messaging",
   "devDependencies": {
-    "jasmine-node": "^1.14.5"
+    "chai": "^1.9.1",
+    "mocha": "^1.21.3"
   },
   "dependencies": {}
 }
